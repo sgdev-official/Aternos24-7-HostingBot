@@ -8,7 +8,7 @@
   "server": {
     "ip": "kayapata.minefort.com",
     "port": 25565,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -82,6 +82,6 @@
   },
   "chat": {
     "respond": true,
-    "tpWhitelist": ["YourMinecraftUsername"]
+    "tpWhitelist": [".S_GHOSh111"]
   }
 }
