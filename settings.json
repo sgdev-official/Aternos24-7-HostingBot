@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Kayapata_AFK_247",
+    "username": "Danger_Mario",
     "password": "",
     "type": "offline"
   },
@@ -75,6 +75,8 @@
   },
   "chat": {
     "respond": false,
-    "tpWhitelist": [".S_GHOSH111"]
+    "tpWhitelist": [
+      ".S_GHOSH111"
+    ]
   }
 }
