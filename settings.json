@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "24/7_ONLINE",
+    "username": "24/7_PLAY",
     "password": "",
     "type": "offline"
   },
@@ -12,7 +12,7 @@
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": fals,
     "x": -575,
     "y": 92,
     "z": 57
