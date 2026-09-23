@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "24/7_PLAY",
+    "username": "Kayapata_247",
     "password": "",
     "type": "offline"
   },
@@ -12,10 +12,10 @@
     "try-creative": false
   },
   "position": {
-    "enabled": fals,
-    "x": -575,
-    "y": 92,
-    "z": 57
+    "enabled": false,
+    "x": 0,
+    "y": 100,
+    "z": 0
   },
   "utils": {
     "auto-auth": {
@@ -34,11 +34,11 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 5000,
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": false,
       "radius": 4,
