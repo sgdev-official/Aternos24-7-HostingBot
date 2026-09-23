@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot pro",
+  "name": "AFK Bot",
   "bot-account": {
     "username": "Danger_Mario",
     "password": "",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "kayapata.minefort.com",
     "port": 25565,
-    "version": false,
+    "version": "1.20.4",
     "try-creative": false
   },
   "position": {
