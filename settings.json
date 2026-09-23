@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Kayapata_247",
+    "username": "Notch",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "kayapata.minefort.com",
     "port": 25565,
-    "version": "1.21.1",
+    "version": "",
     "try-creative": false
   },
   "position": {
