@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK Bot Pro",
   "bot-account": {
-    "username": "Danger_Mario_",
+    "username": "Danger_Mario",
     "password": "",
     "type": "offline"
   },
@@ -23,21 +23,21 @@
       "password": ""
     },
     "anti-afk": {
-      "enabled": true,
-      "sneak": true
+      "enabled": false,
+      "sneak": false
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": true,
-      "repeat-delay": 30,
+      "repeat": false,
+      "repeat-delay": 2,
       "messages": [
         "/join kayapata"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 5000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 2000,
+    "max-reconnect-delay": 60000
   },
   "movement": {
     "enabled": false,
@@ -47,7 +47,7 @@
       "speed": 3000
     },
     "look-around": {
-      "enabled": true,
+      "enabled": false,
       "interval": 5000
     },
     "random-jump": {
@@ -56,7 +56,7 @@
     }
   },
   "modules": {
-    "avoidMobs": true,
+    "avoidMobs": false,
     "combat": false,
     "beds": false,
     "chat": true,
@@ -64,7 +64,7 @@
   },
   "combat": {
     "attack-mobs": false,
-    "auto-eat": true
+    "auto-eat": false
   },
   "beds": {
     "pick-up-day": false,
