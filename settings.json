@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot Pro",
+  "name": "AFK_Bot_Pro",
   "bot-account": {
     "username": "sux",
     "password": "",
@@ -23,36 +23,36 @@
       "password": ""
     },
     "anti-afk": {
-      "enabled": false,
-      "sneak": false
+      "enabled": true,
+      "sneak": true
     },
     "chat-messages": {
       "enabled": true,
       "repeat": false,
       "repeat-delay": 2,
       "messages": [
-        "/join kayapata"
+        "/start"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 5000,
     "max-reconnect-delay": 60000
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
-      "enabled": false,
-      "radius": 4,
+      "enabled": true,
+      "radius": 2,
       "speed": 3000
     },
     "look-around": {
-      "enabled": false,
+      "enabled": true,
       "interval": 5000
     },
     "random-jump": {
-      "enabled": false,
-      "interval": 10000
+      "enabled": true,
+      "interval": 8000
     }
   },
   "modules": {
